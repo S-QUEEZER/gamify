@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5601485581",
+    "project_id": "gamify-3a184",
+    "storage_bucket": "gamify-3a184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5601485581:android:208444819b0f173389c644",
+        "android_client_info": {
+          "package_name": "com.example.halenest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5601485581-oklu5jojkfd2j5aten6600q49fhjf8e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halenest",
+            "certificate_hash": "4e2e8fd316977ae519790ff3af065049fce5310a"
+          }
+        },
+        {
+          "client_id": "5601485581-r3mqghnlhkeah3h8vko4bkt28fnogu7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvXxp0QPrmHh995gIQJ05Opu7BC37R4k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5601485581-r3mqghnlhkeah3h8vko4bkt28fnogu7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
